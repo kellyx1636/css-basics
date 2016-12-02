@@ -19,3 +19,15 @@ hr {
     background: #333;
     background-image: linear-gradient(to right, #ccc, #333, #ccc);
 }
+
+h1 {
+    font-size: 72px;
+}
+
+h1, h2 {
+    /*This means that the font will be Oswald (an imported font, more on that later), and Helvetica Neue is the closest backup in case Oswald doesn't load.*/
+    font-family: "Oswald", "Helvetica Neue";
+    text-align: center;
+    color: #2884C3;
+    
+}
