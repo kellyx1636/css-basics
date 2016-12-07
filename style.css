@@ -34,5 +34,13 @@ h1, h2 {
 
 body {
     font-family: "Crimson Text", "Arial";
+    /*em means emphasis and simply multiplies the current font size by your # (in this case, 1.5)*/
+    font-size: 1.5em;
     line-height: 1.5;
+}
+
+code {
+    color: #CE234C;
+    background-color: lightgray;
+    
 }
