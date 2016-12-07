@@ -42,5 +42,10 @@ body {
 code {
     color: #CE234C;
     background-color: lightgray;
-    
 }
+
+snippet {
+    background-color: lightgray;
+}
+
+
